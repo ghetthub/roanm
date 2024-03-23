@@ -33,7 +33,8 @@ Dans la suite, nous appelerons le "joueur" le participant qui vient de tirer une
 
 ## Règles
 
-  * **As** : Shifumi général. Les participants font un shifumi (pierre - papier - ciseau) tous ensemble. Les participants dont leur symbole est majoritairement représenté boivent une gorgée. 
+  * **As** : Shifumi général. Les participants font un shifumi (pierre - papier - ciseau) tous ensemble. Les participants dont leur symbole est majoritairement représenté boivent un nombre de gorgées égale au nombre de représentation.
+    * _Exemple_ : 5 personnes participent. 3 personnes font feuille, 1 personne fait pierre et la dernière fait ciseau. Les 3 participants ayant fait feuille boivent 3 gorgées.  
   * **2** : Le jeu du mariage. Le joueur choisit 2 personnes (que nous nommeront les cibles) qui ferment leurs yeux. Le joueur dit : "lequel de vous est le plus ... ? ". Au moment de l'annonce, chaque cible choisit de lever la main si elle pense que c'est elle ou de pointer du doigt l'autre cible. Si les 2 cibles sont d'accord, le joueur prend 3 gorgées, sinon les cibles prennent 3 gorgées chacune.
   * **3 - 6** : Le joueur donne la valeur de la carte.
     * Il est possible de diviser les gorgées (même si déconseillé).
