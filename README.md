@@ -33,9 +33,7 @@ Dans la suite, nous appelerons le "joueur" le participant qui vient de tirer une
 
 ## Règles
 
-  * **As** : Jeu du doigt sur le verre du joueur, le verre est fini en 2 fois.
-    * Lors du jeu doigt, tous les participants mettent leur doigt sur un verre. Chacun leur tour, les participants annoncent un chiffre qui représente, selon eux, le nombre de doigts qui restent sur le verre. Au moment de l'annonce, chaque participant peut choisir d'enlever son doigt du verre ou de le laisser. Si le participant a trouvé le bon nombre, il retire définitivement son doigt et les autres continuent. On continue jusqu'à ce qu'il n'y ait plus qu'une seule personne.
-    * Si le nombre de participants est supérieur strictement à 4, les participants doivent annoncer si le nombre de doigts sur le verre est paire ou impaire. A partir de 4 participants, les règles classiques s'appliquent. 
+  * **As** : Shifumi général. Les participants font un shifumi (pierre - papier - ciseau) tous ensemble. Les participants dont leur symbole est majoritairement représenté boivent une gorgée. 
   * **2** : Le jeu du mariage. Le joueur choisit 2 personnes (que nous nommeront les cibles) qui ferment leurs yeux. Le joueur dit : "lequel de vous est le plus ... ? ". Au moment de l'annonce, chaque cible choisit de lever la main si elle pense que c'est elle ou de pointer du doigt l'autre cible. Si les 2 cibles sont d'accord, le joueur prend 3 gorgées, sinon les cibles prennent 3 gorgées chacune.
   * **3 - 6** : Le joueur donne la valeur de la carte.
     * Il est possible de diviser les gorgées (même si déconseillé).
