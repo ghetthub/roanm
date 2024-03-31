@@ -44,8 +44,8 @@ Dans la suite, nous appelerons le "joueur" le participant qui vient de tirer une
     * ATTENTION AUX CHANGEMENT DES CONNARDS. 
   * **9** : Quelque chose de 9. Nouvelle règle. Le joueur invente une règle qui sera mise en place jusqu'à la fin de la partie.
   * **10** : 10 Track / 10 is la peste. Le joueur fait un blind test vocal en onomatopée. Le premier participant qui trouve donne 5 gorgées à qui il veut.
-  * **Valet** : Le joueur pioche une carte jusqu'à avoir la même couleur (Pique, Carreau, Coeur, Trèfle) que le Valet tiré. Le joueur prend 2 gorgées par carte retournée.
-    * Le joueur ne peut pas prendre plus de 10 gorgées, ce qui équivaut à 5 cartes retournées.
+  * **Valet** : Le joueur pioche une carte jusqu'à avoir la même couleur (Pique, Carreau, Coeur, Trèfle) que le Valet tiré. Le joueur prend 1 gorgée par carte retournée.
+    * Le joueur ne peut pas prendre plus de 5 gorgées, ce qui équivaut à 5 cartes retournées.
     * Les cartes retournées (à l'exception du Valet initial) sont remises dans le jeu.
   * **Dame** : La drydade (la Reine des putes). Le joueur peut modifier n'importe quelle règle du jeu.
     * La carte peut être conservée par le joueur pour être utilisée plus tard au cours de la partie.
