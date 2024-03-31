@@ -39,7 +39,8 @@ Dans la suite, nous appelerons le "joueur" le participant qui vient de tirer une
   * **3 - 6** : Le joueur donne la valeur de la carte.
     * Il est possible de diviser les gorgées (même si déconseillé).
     * _Exemple_ : le joueur pioche un 5. Il donne 5 gorgées à qui il veut.
-  * **7** : 7 est vrai, 7 est faux. Le joueur dit une chose sur lui, les participants doivent trouver si c'est vrai ou faux. Chaque participant qui a eu tord boit une gorgée.
+  * **7** : Sur 100 Français. Le joueur énonce une phrase commençant par "Sur X français, combien...", X étant le nombre de joueurs. Les participants répondent en fonctionnant de leur vécu, la majorité boit.
+    * _Exemple_: Sur 5 français, combien ont déjà choppé leur cousin ou cousine. 1 seul participant lève la main (signifiant qu'il l'a fait), les 4 autres boivent.
   * **8** : Jeu des lunettes. Lorsque la carte est piochée, chaque participant fait des lunettes avec ses doigts et vise une personne avec ses lunettes doigt. Le participant le plus visé boit un nombre de gorgées égale au nombre de personnes qui le visent. 
     * ATTENTION AUX CHANGEMENT DES CONNARDS. 
   * **9** : Quelque chose de 9. Nouvelle règle. Le joueur invente une règle qui sera mise en place jusqu'à la fin de la partie.
