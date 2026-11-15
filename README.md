@@ -48,7 +48,8 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
   * **Valet** : Le joueur pioche une carte jusqu'à avoir la même couleur (Pique, Carreau, Coeur, Trèfle) que le Valet tiré. Le joueur prend 1 gorgée par carte retournée.
     * Le joueur ne peut pas prendre plus de 5 gorgées, ce qui équivaut à 5 cartes retournées.
     * Les cartes retournées (à l'exception du Valet initial) sont remises dans le jeu.
-  * **Dame** : Le jeu du tamtam. Tout les participants mettent les deux mains sur la table. Chaque participant tape sur la table à son tour, dans le sens horaire, une main a la fois. Si un participant tape deux fois sur la table, le sens change. Le premier participant à faire une erreur perd une main. Le premier participant à perdre deux mains boit 6 gorgées.
+  * **Dame** : Jeu à boire au choix, indépendamment du RoANM en cours.
+    * _Exemple_ : Le joueur pioche une Dame. Il organise un jeu des lettres comme dans le roi des pouces.
   * **Roi** : Le joueur choisit une Reine avec qui il est en bijection. Lorsque 2 participant sont en bijection, dès que l'un d'eux boit une gorgée, l'autre boit également une gorgée.
     * La répartition est équitable. Si un participant boit 3 gorgées, celle en bijection boit également 3 gorgées.
     * Cela ne s'applique qu'aux gorgées qui proviennent des règles du jeu.
