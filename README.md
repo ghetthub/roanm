@@ -57,3 +57,4 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
   * **Carte règle (ou autre)** : aucune règle définie à ce jour.     
 
 > _Remarque_ : En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
+> En cas d'égalité, démerdez-vous.
