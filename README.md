@@ -6,11 +6,11 @@ Pour plus d'informations sur le Roi des Pouces, voir la branche [legacy](https:/
 
 ## Mise en place
 
-Prendre un jeu de carte classique (52 cartes minimum). Si le jeu contient un ou plusiers Joker, on peut le(s) inclure. Si le jeu contient une carte règle (ou autre carte), on peut également le(s) inclure.
+Prendre un jeu de carte classique (52 cartes minimum). Si le jeu contient un ou plusieurs Joker, on peut le(s) inclure. Si le jeu contient une carte règle (ou autre carte), on peut également le(s) inclure.
 
 Disposer le jeu de carte sur la table, toutes les cartes sont disposées face cachée. 
 
-> _Règle optionnelle_ : on peut disposer les cartes en cercle (forme d'anneau). Lorsq'une personne prend une carte, elle ne doit pas briser le cercle. La personne qui brise le cercle finit son verre et met fin à la règle optionnelle.
+> _Règle optionnelle_ : on peut disposer les cartes en cercle (forme d'anneau). Lorsqu'une personne prend une carte, elle ne doit pas briser le cercle. La personne qui brise le cercle finit son verre et met fin à la règle optionnelle.
 
 Le jeu est limité à 37 personnes.
 
@@ -29,7 +29,7 @@ Chacun leur tour, les participants piochent une carte et appliquent la règle de
 
 Le sens de rotation classique est le sens horaire. Libre aux participants de s'accorder sur un fonctionnement différent.
 
-Dans la suite, nous appelerons le "joueur" le participant qui vient de tirer une carte.
+Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer une carte.
 
 ## Règles
 
