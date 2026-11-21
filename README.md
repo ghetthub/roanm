@@ -102,7 +102,7 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
   * **Dame** : Jeu à boire au choix, indépendamment du RoANM en cours.
     * _Exemple_ : Le joueur pioche une Dame. Il organise un jeu des lettres comme dans le roi des pouces.
   * **Roi** : Le joueur invente une règle temporaire qui sera mise en place jusqu'à la fin de son prochain tour.
-  * **Joker** : le Bourreau. Le joueur donne un cul-sec.
+  * **Joker** : la Remontada. Le participant ayant le verre le plus rempli boit jusqu'au niveau du verre le moins rempli.
   * **Carte règle (ou autre)** : aucune règle définie à ce jour.     
 
 > _Remarque_ : En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
