@@ -99,8 +99,9 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
   * **Valet** : Le joueur pioche une carte jusqu'à avoir la même couleur (Pique, Carreau, Coeur, Trèfle) que le Valet tiré. Le joueur prend 1 gorgée par carte retournée.
     * Le joueur ne peut pas prendre plus de 5 gorgées, ce qui équivaut à 5 cartes retournées.
     * Les cartes retournées (à l'exception du Valet initial) sont remises dans le jeu.
-  * **Dame** : Jeu à boire au choix, indépendamment du RoANM en cours.
-    * _Exemple_ : Le joueur pioche une Dame. Il organise un jeu des lettres comme dans le roi des pouces.
+  * **Dame** : Mini Black Jack. Les participants font une partie de Black Jack dans laquelle le joueur prend le rôle de la banque. Les règles sont les mêmes qu'au Black Jack, avec les variations suivante : 
+    * Le Black Jack correspond à un 6 et un 5.
+    * La banque s'arrête dès qu'elle égalise ou dépasse 9.
   * **Roi** : Le joueur invente une règle temporaire qui sera mise en place jusqu'à la fin de son prochain tour.
   * **Joker** : la Remontada. Le participant ayant le verre le plus rempli boit jusqu'au niveau du verre le moins rempli.
   * **Carte règle (ou autre)** : aucune règle définie à ce jour.     
