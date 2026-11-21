@@ -95,7 +95,7 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
     * _Exemple_: Sur 5 français, combien ont déjà choppé leur cousin ou cousine. 1 seul participant lève la main (signifiant qu'il l'a fait), les 4 autres boivent.
   * **8** : Jeu des lunettes. Lorsque la carte est piochée, chaque participant fait des lunettes avec ses doigts et vise une personne avec ses lunettes doigt. Le participant le plus visé boit un nombre de gorgées égale au nombre de personnes qui le visent. 
   * **9** : Quelque chose de 9. Nouvelle règle. Le joueur invente une règle qui sera mise en place jusqu'à la fin de la partie.
-  * **10** : 10 Track / 10 is la peste. Le joueur fait un blind test vocal en onomatopée. Le premier participant qui trouve donne 5 gorgées à qui il veut.
+  * **10** : aucune règle définie à ce jour.
   * **Valet** : Le joueur pioche une carte jusqu'à avoir la même couleur (Pique, Carreau, Coeur, Trèfle) que le Valet tiré. Le joueur prend 1 gorgée par carte retournée.
     * Le joueur ne peut pas prendre plus de 5 gorgées, ce qui équivaut à 5 cartes retournées.
     * Les cartes retournées (à l'exception du Valet initial) sont remises dans le jeu.
