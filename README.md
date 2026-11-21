@@ -56,11 +56,11 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
 > _Remarque_ : En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
 > En cas d'égalité, démerdez-vous.
 
-## Variante à 2 ou 3 participants - Mini RoANM
+# Variante à 2 ou 3 participants - Mini RoANM
 
 Le Mini RoANM est une version adaptée pour 2 ou 3 joueurs. Elle remplace les règles qui se basent sur des notions de rapidité ou de majorité.
 
-### Mise en place
+## Mise en place
 
 Prendre un jeu de carte de belote/coinche (32 cartes minimum). Si le jeu contient un ou plusieurs Joker, on peut le(s) inclure. Si le jeu contient une carte règle (ou autre carte), on peut également le(s) inclure.
 
@@ -72,7 +72,7 @@ Disposer le jeu de carte sur la table, toutes les cartes sont disposées face ca
 
 Le jeu est limité à 3 personnes.
 
-### Début de la partie
+## Début de la partie
 
 Il existe 2 méthodes dites "classiques" pour commencer la partie :
    - les participants effectuent un shifumi (pierre - papier - ciseau) tous ensemble. Le gagnant commence. 
@@ -80,7 +80,7 @@ Il existe 2 méthodes dites "classiques" pour commencer la partie :
 
 Toute autre méthode alternative de décision peut-être mise en place après accord de toute ou partie des participants.
 
-### Déroulé
+## Déroulé
 
 Chacun leur tour, les participants piochent une carte et appliquent la règle de la carte tirée. Le participant suivant pioche ensuite une carte, jusqu'à épuisement du jeu de cartes.
 
@@ -88,7 +88,7 @@ Le sens de rotation classique est le sens horaire. Libre aux participants de s'a
 
 Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer une carte.
 
-### Règles
+## Règles
 
   * **As** : gorgée du peuple. Tous les participants boivent une gorgée.
   * **7** : Sur 100 Français. Le joueur énonce une phrase commençant par "Sur X français, combien...", X étant le nombre de joueurs. Les participants répondent en fonctionnant de leur vécu, la majorité boit.
