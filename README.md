@@ -14,7 +14,6 @@ Disposer le jeu de carte sur la table, toutes les cartes sont disposées face ca
 
 Le jeu est limité à 37 personnes.
 
-
 ## Début de la partie
 
 Il existe 2 méthodes dites "classiques" pour commencer la partie :
@@ -63,14 +62,15 @@ Le Mini RoANM est une version adaptée pour 2 ou 3 joueurs. Elle remplace les r�
 
 ### Mise en place
 
-Prendre un jeu de carte classique (52 cartes minimum). Si le jeu contient un ou plusieurs Joker, on peut le(s) inclure. Si le jeu contient une carte règle (ou autre carte), on peut également le(s) inclure.
+Prendre un jeu de carte de belote/coinche (32 cartes minimum). Si le jeu contient un ou plusieurs Joker, on peut le(s) inclure. Si le jeu contient une carte règle (ou autre carte), on peut également le(s) inclure.
+
+> _Remarque_ : un jeu de belote/coinche est un jeu de carte classique (52 cartes) auquel on a retiré les cartes numérotées de 2 à 6. Il ne reste donc plus que les As, Roi, Dame, Valet, 10, 9, 8 et 7.
 
 Disposer le jeu de carte sur la table, toutes les cartes sont disposées face cachée. 
 
 > _Règle optionnelle_ : on peut disposer les cartes en cercle (forme d'anneau). Lorsqu'une personne prend une carte, elle ne doit pas briser le cercle. La personne qui brise le cercle finit son verre et met fin à la règle optionnelle.
 
-Le jeu est limité à 37 personnes.
-
+Le jeu est limité à 3 personnes.
 
 ### Début de la partie
 
