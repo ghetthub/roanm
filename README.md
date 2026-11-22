@@ -53,8 +53,11 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
   * **Joker** : le Bourreau. Le joueur donne un cul-sec.
   * **Carte règle (ou autre)** : aucune règle définie à ce jour.     
 
-> _Remarque_ : En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
-> En cas d'égalité, démerdez-vous.
+## Remarques 
+
+En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
+
+En cas d'égalité, démerdez-vous.
 
 # Variante à 2 ou 3 participants - Mini RoANM
 
@@ -112,6 +115,9 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
   * **Joker** : la Remontada. Le participant ayant le verre le plus rempli boit jusqu'au niveau du verre le moins rempli.
   * **Carte règle (ou autre)** : aucune règle définie à ce jour.     
 
-> _Remarque_ : En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
-> En cas d'égalité, démerdez-vous.
+## Remarques 
+
+En cas de litige, la personne qui a créé la règle ou qui a appliqué la règle d'une carte (pour le Valet par exemple) décide de la décision finale.
+
+En cas d'égalité, démerdez-vous.
 
