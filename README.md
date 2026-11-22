@@ -94,10 +94,7 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
 ## Règles
 
   * **As** : gorgée du peuple. Tous les participants boivent une gorgée.
-  * **7** : 3 + moi. Le joueur doit donner une action qu'il a fait aucune fois, une seule fois ou 2 fois minimum. Après un décompte, chaque participant peut soit :
-     * ne pas lever de main s'il n'a jamais fait l'action
-     * lever une main s'il l'a fait une seule fois
-     * lever les 2 mains s'il l'a fait 2 fois ou plus
+  * **7** : 3 + moi. Le joueur doit donner une action qu'il a fait aucune fois, une seule fois ou 2 fois minimum. Après un décompte, chaque participant peut soit : 1) ne pas lever de main s'il n'a jamais fait l'action, 2) lever une main s'il l'a fait une seule fois ou 3) lever les 2 mains s'il l'a fait 2 fois ou plus.
     Si le total de main en l'air fait 3, le joueur boit 3 gorgées. Sinon, c'est l'autre participant qui boit 3 gorgées.
     * _Exemple_: le joueur énonce l'action suivante "manger des crozets". Après un décompte, il lève les 2 mains car il a eu l'audace de manger au moins 2 fois des crozets. L'autre participant lève une main parce qu'il a une la sagesse de ne manger qu'une seule fois des crozets. Le joueur boit 3 gorgées car le total de main en l'air est de 3.
     * _Remarque_: cette règle a été pensée pour 2 personnes. Aucune version pour 3 n'a été réfléchie ou testée.
