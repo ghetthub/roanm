@@ -100,6 +100,7 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
     * _Remarque_: cette règle a été pensée pour 2 personnes. Aucune version pour 3 n'a été réfléchie ou testée.
   * **8** : écarte les doigts. Les 2 participants posent leur main devant eux, en même temps, en choisissant de lever entre 0 et 5 doigts sur chaque main. On calcule ensuite la différence (en valeur absolue) entre les valeurs des mains qui se font face. Si la différence de gauche (du point de vue du joueur) est strictement la plus grande, le joueur boit la somme des différences. Si celle de droite est strictement plus grande, c'est l'autre participant qui boit cette différence. En cas d'égalité, l'autre participant boit 3 gorgées.
     * _Exemple_: voici le résultat du point de vue du joueur
+    ```
        |       |          |       |   
        |       |         /         \ 
       /         \        |         |  
@@ -125,7 +126,7 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
       \     '   /          \     '   /           
        |       |            |       |            
        |       |            |       |
-
+    ```
       La différence de gauche vaut 4 (5-1) et celle de droite vaut 3 (3-0). Celle de gauche est plus grande, c'est donc l'autre participant qui boit 1 gorgée (4-3).
     * _Remarque_: cette règle a été pensée pour 2 personnes. Aucune version pour 3 n'a été réfléchie ou testée.
   * **9** : Quelque chose de 9. Nouvelle règle. Le joueur invente une règle qui sera mise en place jusqu'à la fin de la partie.
