@@ -98,7 +98,7 @@ Dans la suite, nous appellerons le "joueur" le participant qui vient de tirer un
     Si le total de main en l'air fait 3, le joueur boit 3 gorgées. Sinon, c'est l'autre participant qui boit 3 gorgées.
     * _Exemple_: le joueur énonce l'action suivante "manger des crozets". Après un décompte, il lève les 2 mains car il a eu l'audace de manger au moins 2 fois des crozets. L'autre participant lève une main parce qu'il a une la sagesse de ne manger qu'une seule fois des crozets. Le joueur boit 3 gorgées car le total de main en l'air est de 3.
     * _Remarque_: cette règle a été pensée pour 2 personnes. Aucune version pour 3 n'a été réfléchie ou testée.
-  * **8** : Jeu des lunettes. Lorsque la carte est piochée, chaque participant fait des lunettes avec ses doigts et vise une personne avec ses lunettes doigt. Le participant le plus visé boit un nombre de gorgées égale au nombre de personnes qui le visent. 
+  * **8** : écarte les doigts. Les 2 participants posent leur main devant eux, en même temps, en choisissant de lever entre 0 et 5 doigts sur chaque main. On calcule ensuite la différence (en valeur absolue) entre les valeurs des mains qui se font face. Si la différence de gauche (du point de vue du joueur) est strictement la plus grande, le joueur boit la somme des différences. Si celle de droite est strictement plus grande, c'est l'autre participant qui boit cette différence. En cas d'égalité, l'autre participant boit 3 gorgées.
     * _Remarque_: cette règle a été pensée pour 2 personnes. Aucune version pour 3 n'a été réfléchie ou testée.
   * **9** : Quelque chose de 9. Nouvelle règle. Le joueur invente une règle qui sera mise en place jusqu'à la fin de la partie.
   * **10** : aucune règle définie à ce jour.
