@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mini RoANM"
-permalink: /mini-roanm
+permalink: /mini-roanm/
 ---
 
 # Variante à 2 ou 3 participants - Mini RoANM
