@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "RoANM"
-permalink: /roanm/
+permalink: /
 ---
 
 # RoANM
